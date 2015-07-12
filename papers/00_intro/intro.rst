@@ -49,7 +49,8 @@ The conference continues to grow with almost 500 participants from
 across the globe. More than half of attendees are now from industry,
 the rest split between government laboratories and the academy.  The
 organizing committee is committed to increasing representation from
-underrepresented groups.  This year, **TODO:mention diversity scholarships?**.
+underrepresented groups.  This year, sponsors awarded funding to help
+31 people attend the conference.
 
 Python for Data Science, Quantitative Finance, and Computational Social
 Sciences were central themes this year, with additional minisymposia in domains
@@ -64,18 +65,18 @@ where the use of Python is strong or growing:
 - Engineering
 
 |noindent|
-Birds of a Feather sessions were organized around select solicited
+Birds of a Feather sessions were organized around various
 topics, providing an effective platform for discussing issues relevant
-to the community.  New open space activities, sponsor funded social
+to the community.  New open space activities, sponsor-funded social
 events and tutorials effectively exposed newcomers to the welcoming
 and inclusive scientific Python community.
 
 We were privileged to have three prominent community members present
-keynotes. Jake Vanderplas, gave a motivating perspective on the interface
-between science and data. Wes McKinney gave an overview of the presence of
-Python in finance and quantitative economics. Finally, Chris Wiggins gave a
-unique perspective on the data science behind the machine of newspaper
-production.
+keynotes. Chris Wiggins gave a unique perspective on the data science
+behind the New York Times, Wes McKinney told his story of a career
+path through mathematics, finance and tech startups, and Jake
+Vanderplas gave a motivating perspective on the interface between
+science and data.
 
 These proceedings contain **TODO:NPapers** peer-reviewed contributions, based on
 talks presented at the conference.  They provide a peek into the
